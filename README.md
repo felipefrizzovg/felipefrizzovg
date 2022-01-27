@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at Andra Materiais Elétricos
 
-- 🌱 I’m currently learning JavaScript, HTTPS and ReactJS with the team at @Rocketseat
+- 🌱 I’m currently learning JavaScript, HTTPS and ReactJS with the team at Rocketseat
 
 <!-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) -->
 
