@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/felipefrizzovg"></a>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=felipefrizzovg&show_icons=true&theme=vision-friendly-dark" alt="felipefrizzo's stats"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefrizzovg&layout=compact&theme=vision-friendly-dark" alt="felipefrizzo's most languages"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=felipefrizzovg&show_icons=true&theme=vision-friendly-dark" alt="felipefrizzo's stats"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefrizzovg&layout=compact&theme=vision-friendly-dark" alt="felipefrizzo's most languages"/>
 </div>
 
 <br>
