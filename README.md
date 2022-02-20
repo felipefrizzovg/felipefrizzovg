@@ -1,45 +1,34 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Frizzo</h1>
 
-- 🔥 Student Web Developer 
+<div>
+  <a href="https://github.com/felipefrizzovg"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipefrizzovg&show_icons=true&theme=vision-friendly-dark" alt="felipefrizzo's stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefrizzovg&layout=compact&theme=vision-friendly-dark" alt="felipefrizzo's most languages"/>
+</div>
 
-- 🔭 I’m currently working at Andra Materiais Elétricos
+<br>
 
-- 🌱 I’m currently learning JavaScript, HTTPS and ReactJS with the team at Rocketseat
+<div display="inline-block">
+  <img align="center" alt="Felipe React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30px" width="40px"/>
+  <img align="center" alt="Felipe JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30px" width="40px"/>
+  <img align="center" alt="Felipe TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30px" width="40px"/>
+  <img align="center" alt="Felipe HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px" width="40px"/>
+  <img align="center" alt="Felipe CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px" width="40px"/>
+  <img align="center" alt="Felipe SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30px" width="40px"/>
+  <img align="center" alt="Felipe Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30px" width="40px"/>
+  <img align="center" alt="Felipe VScode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30px" width="40px"/>
+</div>
+  
+<br>
 
-<!-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) -->
 
-- ⚡ Fun fact **I'm a big nerd by heart 😜**
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=felipefrizzovg&show_icons=true&theme=vision-friendly-dark" alt="felipefrizzo's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefrizzovg&layout=compact&theme=vision-friendly-dark" alt="felipefrizzo's most languages"/>
-</p>
-
-<br><br>
-
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/felipefrizzovg" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-felipefrizzovg-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/felipefrizzovg" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-felipefrizzovg-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
+<div> 
+  <a href="https://instagram.com/felipefrizzovg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="discordapp.com/users/427562070884483096" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:felipefrizzovg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-frizzo-2336b61a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/felipefrizzovg/felipefrizzovg/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
