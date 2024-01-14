@@ -7,7 +7,7 @@
   <li>Envolvido com os testes relacionados a uma nova feature na área de senhas do app Itaú</li>
   <li>Participação direta na criação de novos fluxos na área de autenticação e iToken do app Itaú Empresas</li>
 </ul>
-<br><br>
+<br>
 
 <h5> - Portfólio - Agosto, 2023 - Outubro, 2023</h5>
 <ul>
