@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 👋 Olá, eu sou Felipe!<br><br>Sou um apaixonado por Front-end e Mobile, com experiência em HTML5, CSS3, JS/Typescript e Swift. Sempre em busca de desafios que me permitam aprender e crescer.<br><br>💼 Experiência Profissional<br><br>- IBM, Projeto Itaú - Março, 2022 - Dezembro 2023<br>  - Desenvolvimento, manutenção e refatoração de fluxos e telas para aplicações mobile iOS em Swift<br>  - Envolvido com os testes relacionados a uma nova feature na área de senhas do app Itaú <br>  - Participação direta na criação de novos fluxos na área de autenticação e iToken do app Itaú Empresas <br><br>- Portfólio - Agosto, 2023 - Outubro, 2023<br>  - Design responsivo: implementado uma abordagem mobile-first, garantindo <br>visualização e interação ideais em vários dispositivos.<br>  - UI/UX estéticos: foi projetada uma interface de usuário intuitiva e visualmente <br>atraente, com foco em um layout limpo e navegação fácil para fornecer uma experiência de<br>usuário perfeita<br><br>🌱 Atualmente Aprendendo<br><br>- React <br>
 
 
