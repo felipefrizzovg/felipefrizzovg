@@ -1,11 +1,33 @@
 # 💫 Sobre mim:
 👋 Olá, eu sou Felipe!<br><br>Sou um apaixonado por Front-end e Mobile, com experiência em HTML5, CSS3, JS/Typescript e Swift. Sempre em busca de desafios que me permitam aprender e crescer.<br><br>
 <h3>💼 Experiência Profissional</h3><br>
-<h5> - IBM, Projeto Itaú - Março, 2022 - Dezembro 2023</h5>
+
+<h5> - Grupo Ideal Trends, Projeto Busca Cliente - Fevereiro, 2024 - Atualmente</h5>
+<br>
+<p>Responsável por:</p>
+<ul>
+  <li>Realizar alterações nos sites institucionais dos clientes</li>
+  <li>Garantir que as mudanças sejam realizadas dentro do prazo</li>
+  <li>Contato direto com a área de Customer Success, que nos passa as alterações necessárias</li>
+  <li>Utilização diária de linguagens Web como: HTML, CSS, JS e PHP</li>
+  <li>Utilização diária de ferramentas de SEO como: Google Analytics e Google Tag Manager</li>
+</ul>
+<br>
+
+<h5> - IBM, Projeto Itaú - Março, 2022 - Dezembro, 2023</h5>
 <ul>
   <li>Desenvolvimento, manutenção e refatoração de fluxos e telas para aplicações mobile iOS em Swift</li>
-  <li>Envolvido com os testes relacionados a uma nova feature na área de senhas do app Itaú</li>
-  <li>Participação direta na criação de novos fluxos na área de autenticação e iToken do app Itaú Empresas</li>
+  <li>Arquitetura MVVM-C com Facade</li>
+  <li>Forte utilização de Design Patterns (SOLID)</li>
+  <li>Cocoapods para gerenciemnto dependencias</li>
+  <li>Git, GitHub e Gitflow para versionamento de código, gerenciamento de tarefas e boas práticas</li>
+</ul>
+
+<br>
+<p>Destaques</p>
+<ul>
+  <li>Envolvido com os testes relacionados a uma nova feature na área de senhas do app Itaú </li>
+  <li>Participação direta na criação de novos fluxos na área de autenticação e iToken do app Itaú Empresas </li>
 </ul>
 <br>
 
