@@ -6,11 +6,14 @@
 <br>
 <p>Responsável por:</p>
 <ul>
-  <li>Realizar alterações nos sites institucionais dos clientes</li>
+  <li>Realizar alterações e auxiliar na criação de sites institucionais para os clientes</li>
+  <li>Garantir que os novos sites estejam bem ranqueados nos motores de busca utilizando estratégias internas</li>
   <li>Garantir que as mudanças sejam realizadas dentro do prazo</li>
-  <li>Contato direto com a área de Customer Success, que nos passa as alterações necessárias</li>
-  <li>Utilização diária de linguagens Web como: HTML, CSS, JS e PHP</li>
+  <li>Contato direto com a área de Customer Success, que nos passa insights valiosos dos clientes</li>
+  <li>Utilização diária de linguagens Web como: HTML, CSS, JS, JQuery e PHP</li>
   <li>Utilização diária de ferramentas de SEO como: Google Analytics e Google Tag Manager</li>
+  <li>Trabalho em conjunto com a equipe de Implementação, para garantir rapidez e
+ qualidade na entrega dos sites e alterações</li>
 </ul>
 <br>
 
