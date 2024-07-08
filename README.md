@@ -1,70 +1,52 @@
-# 💫 Sobre mim:
-👋 Olá, eu sou Felipe!<br><br>Sou um apaixonado por Front-end e Mobile, com experiência em HTML5, CSS3, JS/Typescript e Swift. Sempre em busca de desafios que me permitam aprender e crescer.<br><br>
-<h3>💼 Experiência Profissional</h3><br>
+<h2 align="left">Hi 👋! My name is Felipe Frizzo and I'm a Web Developer, from Brazil</h2>
 
-<h5> - Grupo Ideal Trends, Projeto Busca Cliente - Fevereiro, 2024 - Atualmente</h5>
-<br>
-<p>Responsável por:</p>
-<ul>
-  <li>Realizar alterações e auxiliar na criação de sites institucionais para os clientes</li>
-  <li>Garantir que os novos sites estejam bem ranqueados nos motores de busca utilizando estratégias internas</li>
-  <li>Garantir que as mudanças sejam realizadas dentro do prazo</li>
-  <li>Contato direto com a área de Customer Success, que nos passa insights valiosos dos clientes</li>
-  <li>Utilização diária de linguagens Web como: HTML, CSS, JS, JQuery e PHP</li>
-  <li>Utilização diária de ferramentas de SEO como: Google Analytics e Google Tag Manager</li>
-  <li>Trabalho em conjunto com a equipe de Implementação, para garantir rapidez e
- qualidade na entrega dos sites e alterações</li>
-</ul>
-<br>
+###
 
-<h5> - IBM, Projeto Itaú - Março, 2022 - Dezembro, 2023</h5>
-<ul>
-  <li>Desenvolvimento, manutenção e refatoração de fluxos e telas para aplicações mobile iOS em Swift</li>
-  <li>Arquitetura MVVM-C com Facade</li>
-  <li>Forte utilização de Design Patterns (SOLID)</li>
-  <li>Cocoapods para gerenciemnto dependencias</li>
-  <li>Git, GitHub e Gitflow para versionamento de código, gerenciamento de tarefas e boas práticas</li>
-</ul>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipefrizzovg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="135" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipefrizzovg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="135" alt="languages graph"  />
+</div>
 
-<br>
-<p>Destaques</p>
-<ul>
-  <li>Envolvido com os testes relacionados a uma nova feature na área de senhas do app Itaú </li>
-  <li>Participação direta na criação de novos fluxos na área de autenticação e iToken do app Itaú Empresas </li>
-</ul>
-<br>
+###
 
-<h5> - Portfólio - Agosto, 2023 - Outubro, 2023</h5>
-<ul>
-  <li>Design responsivo: implementado uma abordagem mobile-first, garantindo visualização e interação ideais em vários dispositivos.</li>
-  <li>UI/UX estéticos: foi projetada uma interface de usuário intuitiva e visualmente atraente, com foco em um layout limpo e navegação fácil para fornecer uma experiência de<br>usuário perfeita</li>
-</ul>
-<br>
-<h3>🌱 Atualmente Aprendendo</h3>
-<br>- React <br><br>
+<img align="right" height="300" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA0Njk1MjUsIm5iZiI6MTcyMDQ2OTIyNSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzA4VDIwMDcwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZkNzE4NGU3MDkwNDJlYjkwZmI5ZmJkYTA2Yjk3NDg1MWMwMTlkZjA4MDVkMjdkOGIxZWViOWJlMjhiNTY0YzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.FTtwCzFMlvsz5BsVwM6NxKUD-UZcnjIBnX7dlbf_E5s"  />
 
+###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felipefrizzovg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-frizzo)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+###
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=felipefrizzovg&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=felipefrizzovg&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipefrizzovg&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br clear="both">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=felipefrizzovg&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+  <a href="https://www.instagram.com/felipefrizzovg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/felipe-frizzo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<br clear="both">
 
----
-[![](https://visitcount.itsvg.in/api?id=felipefrizzovg&icon=2&color=6)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/felipefrizzovg/felipefrizzovg/output/snake.svg" alt="Snake animation" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
