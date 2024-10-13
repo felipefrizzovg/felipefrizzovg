@@ -1,19 +1,17 @@
 # 💫 Sobre mim:
-👋 Olá, eu sou Felipe!<br><br>Sou um apaixonado por Front-end e Mobile, com experiência em HTML5, CSS3, JS/Typescript e Swift. Sempre em busca de desafios que me permitam aprender e crescer.<br><br>
+👋 Olá, eu sou Felipe! Desenvolvedor front-end apaixonado por criar interfaces ricas e responsivas. Com três anos de experiência, estou sempre em busca de boas práticas, inovação e novos desafios. Trabalho bem em equipe e valorizo o aprendizado contínuo para me manter atualizado no mundo da tecnologia.<br><br>
 <h3>💼 Experiência Profissional</h3><br>
 
 <h5> - Grupo Ideal Trends, Projeto Busca Cliente - Fevereiro, 2024 - Atualmente</h5>
 <br>
 <p>Responsável por:</p>
 <ul>
-  <li>Realizar alterações e auxiliar na criação de sites institucionais para os clientes</li>
+  <li>Desenvolver sites insitucionais bem otimizados para SEO com HTML, CSS, JS e PHP</li>
   <li>Garantir que os novos sites estejam bem ranqueados nos motores de busca utilizando estratégias internas</li>
-  <li>Garantir que as mudanças sejam realizadas dentro do prazo</li>
-  <li>Contato direto com a área de Customer Success, que nos passa insights valiosos dos clientes</li>
-  <li>Utilização diária de linguagens Web como: HTML, CSS, JS, JQuery e PHP</li>
+  <li>Garantir que as alterações pedidas pelos clientes sejam realizadas dentro do prazo</li>
+  <li>Contato direto com a área de Customer Success, que nos passa insights valiosos sobre os desejos dos clientes</li>
   <li>Utilização diária de ferramentas de SEO como: Google Analytics e Google Tag Manager</li>
-  <li>Trabalho em conjunto com a equipe de Implementação, para garantir rapidez e
- qualidade na entrega dos sites e alterações</li>
+  <li>Trabalho em conjunto com a equipe de Implementação, para garantir rapidez e qualidade na entrega dos sites e alterações</li>
 </ul>
 <br>
 
@@ -41,28 +39,40 @@
 </ul>
 <br>
 <h3>🌱 Atualmente Aprendendo</h3>
-<br>- React <br><br>
+<br>- Atualmente estou cursando um MBA em Desenvolvimento Full-Stack, focado em aprimorar habilidades de front-end e back-end, além de explorar o desenvolvimento mobile e soft skills essenciais para o profissional full-stack. <br><br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felipefrizzovg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-frizzo)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felipefrizzovg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-frizzo) <br><br>
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+## Front-End
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+## Back-End
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+## Package Managers
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+## Deploy
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)   
+
+## Design
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+<Br><br>
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=felipefrizzovg&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=felipefrizzovg&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=felipefrizzovg&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=felipefrizzovg&theme=dracula&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipefrizzovg&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=felipefrizzovg&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=felipefrizzovg&icon=2&color=6)](https://visitcount.itsvg.in)
